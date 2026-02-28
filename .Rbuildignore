@@ -1,0 +1,13 @@
+^LICENSE\.md$
+^README\.Rmd$
+^CODE_OF_CONDUCT\.md$
+^\.github$
+^_pkgdown\.yml$
+^docs$
+^pkgdown$
+^codecov\.yml$
+^dev$
+^[.]?air[.]toml$
+^\.vscode$
+^data-raw$
+.pre-commit-config.yaml
