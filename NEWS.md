@@ -1,3 +1,3 @@
-# lucidr (development version)
+# lucidr 0.1.0
 
-* Initial CRAN submission.
+* Embed beautiful and consistent SVG icons inline
