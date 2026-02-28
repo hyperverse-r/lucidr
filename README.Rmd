@@ -50,7 +50,7 @@ length(lucide_list())  # 1 500+ icons
 ## Example
 
 An interactive icon showcase is included. It displays a grid of Lucide icons
-served via [plumber2](https://github.com/thomasp85/plumber2) and
+served via [plumber2](https://github.com/posit-dev/plumber2/) and
 [htmxr](https://github.com/hyperverse-r/htmxr):
 
 ```r
