@@ -6,6 +6,8 @@
 <!-- badges: start -->
 
 ![hyperverse](https://img.shields.io/badge/hyperverse-232323)
+[![Lifecycle:
+stable](https://img.shields.io/badge/lifecycle-stable-brightgreen.svg)](https://lifecycle.r-lib.org/articles/stages.html#stable)
 [![R-CMD-check](https://github.com/hyperverse-r/lucidr/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/hyperverse-r/lucidr/actions/workflows/R-CMD-check.yaml)
 [![Codecov test
 coverage](https://codecov.io/gh/hyperverse-r/lucidr/graph/badge.svg)](https://app.codecov.io/gh/hyperverse-r/lucidr)
