@@ -11,3 +11,5 @@
 ^\.vscode$
 ^data-raw$
 .pre-commit-config.yaml
+^cran-comments\.md$
+^CRAN-SUBMISSION$
