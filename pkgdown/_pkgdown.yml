@@ -5,6 +5,7 @@ development:
 
 template:
   bootstrap: 5
+  theme: dracula
   bslib:
     bootswatch: simplex
     base_font: { google: "Lato" }
@@ -17,8 +18,10 @@ template:
     bg: "#232323"
     fg: "#e8e8e8"
     headings-color: "#e8e8e8"
-    link-color: "#f15521"
-    link-hover-color: "#f9855a"
+    link-color: "#a3c4f3"
+    link-hover-color: "#c5d9f8"
+    code-color: "#f8f8f2"
+    code-bg: "#282a36"
 
 navbar:
   bg: primary
@@ -26,3 +29,11 @@ navbar:
   structure:
     left: [reference, news]
     right: [search]
+
+footer:
+  structure:
+    left: thinkr
+    right: [hyperverse-r]
+  components:
+    thinkr: <a href="https://thinkr.fr/" target="_blank">© ThinkR - A French company of R experts</a>
+    hyperverse-r: <a href="https://github.com/hyperverse-r" target="_blank">Explore the hyperverse</a>
