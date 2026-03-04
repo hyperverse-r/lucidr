@@ -1,5 +1,5 @@
 Package: lucidr
-Title: Lucide Icons for R
+Title: 'Lucide' Icons for 'R'
 Version: 0.1.0
 Authors@R:
     person("Arthur", "Bréant", , "arthur@thinkr.fr", role = c("aut", "cre"))
@@ -9,7 +9,7 @@ Description: A lightweight wrapper for the 'Lucide' icon library
 License: MIT + file LICENSE
 URL: https://hyperverse.world/, https://github.com/hyperverse-r/lucidr
 BugReports: https://github.com/hyperverse-r/lucidr/issues
-Depends: 
+Depends:
     R (>= 3.5)
 Imports:
     htmltools
