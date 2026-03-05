@@ -49,7 +49,7 @@ icons served via [plumber2](https://github.com/posit-dev/plumber2/) and
 source(system.file("examples/icons/run_api.R", package = "lucidr"))
 ```
 
-Then open <http://127.0.0.1:8080> in your browser.
+Then open `http://127.0.0.1:8080` in your browser.
 
 ## Code of Conduct
 

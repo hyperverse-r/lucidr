@@ -7,7 +7,7 @@ Description: A lightweight wrapper for the 'Lucide' icon library
     <https://lucide.dev>. Embed beautiful and consistent 'SVG' icons
     inline in any 'R' web application.
 License: MIT + file LICENSE
-URL: https://hyperverse.world/, https://github.com/hyperverse-r/lucidr
+URL: https://github.com/hyperverse-r/lucidr
 BugReports: https://github.com/hyperverse-r/lucidr/issues
 Depends:
     R (>= 3.5)
