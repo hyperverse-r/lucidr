@@ -7,7 +7,7 @@
 ## Citation
 
 Source:
-[`DESCRIPTION`](https://github.com/hyperverse-r/lucidr/blob/main/DESCRIPTION)
+[`DESCRIPTION`](https://github.com/hyperverse-r/lucidr/blob/v0.1.0/DESCRIPTION)
 
 Bréant A (2026). *lucidr: 'Lucide' Icons for 'R'*. R package version
 0.1.0, <https://github.com/hyperverse-r/lucidr>.
