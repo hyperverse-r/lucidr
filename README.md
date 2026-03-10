@@ -11,6 +11,12 @@ stable](https://img.shields.io/badge/lifecycle-stable-brightgreen.svg)](https://
 [![R-CMD-check](https://github.com/hyperverse-r/lucidr/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/hyperverse-r/lucidr/actions/workflows/R-CMD-check.yaml)
 [![Codecov test
 coverage](https://codecov.io/gh/hyperverse-r/lucidr/graph/badge.svg)](https://app.codecov.io/gh/hyperverse-r/lucidr)
+[![CRAN
+status](https://www.r-pkg.org/badges/version/lucidr)](https://cran.r-project.org/package=lucidr)
+[![downloads
+monthly](https://cranlogs.r-pkg.org/badges/lucidr?color=black)](https://CRAN.R-project.org/package=lucidr)
+[![downloads
+total](https://cranlogs.r-pkg.org/badges/grand-total/lucidr?color=black)](https://CRAN.R-project.org/package=lucidr)
 <!-- badges: end -->
 
 `lucidr` brings the [Lucide](https://lucide.dev) icon library to R.
